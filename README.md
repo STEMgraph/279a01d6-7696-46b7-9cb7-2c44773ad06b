@@ -1,6 +1,7 @@
 <!---
 {
-  "depends_on": ["https://github.com/STEMgraph/a2596a91-c7de-477a-bfbb-b08867f1aa89"],
+  "id": "279a01d6-7696-46b7-9cb7-2c44773ad06b",
+  "depends_on": ["a2596a91-c7de-477a-bfbb-b08867f1aa89"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
   "keywords": ["fprintf", "streams", "C", "output"]
